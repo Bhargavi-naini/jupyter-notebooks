@@ -16,7 +16,22 @@ pip install 'mod_wsgi==4.6.5'
 
 # Install supervisord for managing multiple applications.
 
-pip install 'supervisor==4.0.2'
+pip install 'supervisor==4.0.2' 
+
+# new installations
+
+pip install numpy
+pip install opencv-python-headless
+pip install TwitterAPI
+pip install tweepy
+pip install textblob
+pip install pandas
+pip install matplotlib
+pip install nltk
+pip install wordcloud
+pip install tensorflow 
+pip install keras
+pip install sklearn
 
 # Install base packages needed for running Jupyter Notebooks. 
 
